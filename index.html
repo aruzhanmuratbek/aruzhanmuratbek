@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aruzhan Muratbek CV</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" media="print" onload="this.media='all'"/>
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
+    </noscript>
+    <link href="css/font-awesome/css/all.min.css?ver=1.2.1" rel="stylesheet">
+    <link href="css/mdb.min.css?ver=1.2.1" rel="stylesheet">
+    <link href="css/aos.css?ver=1.2.1" rel="stylesheet">
+    <link href="css/style.css?ver=1.2.1" rel="stylesheet">
+    <noscript>
+      <style type="text/css">
+        [data-aos] {
+            opacity: 1 !important;
+            transform: translate(0) scale(1) !important;
+        }
+      </style>
+    </noscript>
+  </head>
+  <body class="bg-light" id="top">
+    <header class="d-print-none">
+      <div class="container text-center text-lg-left">
+        <div class="pt-4 clearfix">
+          <h1 class="site-title mb-0">Aruzhan Muratbek</h1>
+          <div class="site-nav"> 
+            <nav role="navigation">
+              <ul class="nav justify-content-center">
+                <li class="nav-item"><a class="nav-link" href="#about" title="About"><span class="menu-title">About</span></a>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="#skills" title="Skills"><span class="menu-title">Skills</span></a>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="#activities" title="Activities"><span class="menu-title">Activities</span></a>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="#education" title="Education"><span class="menu-title">Education</span></a>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="#languages" title="Languages"><span class="menu-title">Languages</span></a>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="#scholarships" title="Scholarships"><span class="menu-title">Scholarships</span></a>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="#contact" title="Contact"><span class="menu-title">Contact</span></a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div class="page-content">
+      <div class="container">
+<div class="resume-container">
+  <div class="shadow-1-strong bg-white my-5" id="intro">
+    <div class="bg-info text-white">
+      <div class="cover bg-image"><img src="images/header-background.jpg"/>
+        <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);backdrop-filter: blur(2px);">
+          <div class="text-center p-5">
+            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="images/avatar.jpg" width="160" height="160"/></div>
+            <div class="header-bio mt-3">
+              <div data-aos="zoom-in" data-aos-delay="0">
+                <h2 class="h1">Aruzhan Muartbek</h2>
+                <p>4th year Biological sciences student at Nazarbayev University</p>
+              </div>
+              <div class="header-social mb-3 d-print-none" data-aos="zoom-in" data-aos-delay="200">
+                <nav role="navigation">
+                  <ul class="nav justify-content-center">
+                  
+                    <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/aruzhan.muratbek.75/" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/aruka_haru_/?next=%2F" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
+                    </li>
+                   
+                  </ul>
+                </nav>
+              </div>
+              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="material-resume.pdf" data-aos="fade-right" data-aos-delay="700">Download CV</a><a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="shadow-1-strong bg-white my-5 p-5" id="about">
+    <div class="about-section">
+      <div class="row">
+        <div class="col-md-6">
+          <h2 class="h2 fw-light mb-4">About Me</h2>
+          <p>Hello! I’m Aruzhan Muratbek. I am passionate about biology and neuroscience. I am a skilled <strong>basic biology lab</strong> and master of organization of charity events and blood drives. I am a quick learner and a team worker that gets the job done.</p>
+          <p>I can analyze research papers and work in wet lab.</p>
+        </div>
+        <div class="col-md-5 offset-lg-1">
+          <div class="row mt-2">
+            <h2 class="h2 fw-light mb-4">Bio</h2>
+            <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="far fa-calendar-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Age</div>
+            </div>
+            <div class="col-sm-7">
+              <div class="pb-2">22</div>
+            </div>
+            <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Email</div>
+            </div>
+            <div class="col-sm-7">
+              <div class="pb-2">aruzhan.muratbek@nu.edu.kz</div>
+            </div>
+            <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="fab fa-skype pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Skype</div>
+            </div>
+            <div class="col-sm-7">
+              <div class="pb-2">live:aruzhan.mukhtarkyzy</div>
+            </div>
+            <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Phone</div>
+            </div>
+            <div class="col-sm-7">
+              <div class="pb-2">+77080000000</div>
+            </div>
+            <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="fas fa-map-marker-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Address</div>
+            </div>
+            <div class="col-sm-7">
+              <div class="pb-2">Kabanbay Batyr 53, Astana, Kazakhstan</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="shadow-1-strong bg-white my-5 p-5" id="skills">
+    <div class="skills-section">
+      <h2 class="h2 fw-light mb-4">Professional Skills</h2>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="mb-3"><span class="fw-bolder">HTML</span>
+           
+          </div>
+          <div class="mb-3"><span class="fw-bolder">CSS</span>
+         
+          </div>
+          <div class="mb-3"><span class="fw-bolder">JavaScript</span>
+            
+          </div>
+          <div class="mb-3"><span class="fw-bolder">Biology Wet lab</span>
+           
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="mb-3"><span class="fw-bolder">Biology dry lab</span>
+            
+          </div>
+          <div class="mb-3"><span class="fw-bolder">Meta analysis</span>
+            
+          </div>
+          <div class="mb-3"><span class="fw-bolder">Quantitative analysis</span>
+           
+          </div>
+          <div class="mb-3"><span class="fw-bolder">Qualitative analysis</span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="shadow-1-strong bg-white my-5 p-5" id="Activities">
+    <div class="activities-section">
+      <h2 class="h2 fw-light mb-4">Extracurricular Activities</h2>
+      <div class="timeline">
+        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+          <div class="timeline-head px-4 pt-3">
+            <div class="h5">Vice-head of Blood Donation department <span class="text-muted h6">in NU Red Crescent Society</span></div>
+          </div>
+          <div class="timeline-body px-4 pb-4">
+            <div class="text-muted text-small mb-3">January, 2023 - Present</div>
+            <div>Organized more than 10 blood drives on Nazarbayev University in Astana and winner of "SOcial contribution of the year" nomination of NU Awards of 2022</div>
+          </div>
+        </div>
+        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="200">
+          <div class="timeline-head px-4 pt-3">
+            <div class="h5">Active member <span class="text-muted h6">in NU Taekwondo club</span></div>
+          </div>
+          <div class="timeline-body px-4 pb-4">
+            <div class="text-muted text-small mb-3">November, 2021 - May, 2022</div>
+            <div>Abroze medalist at the NU tournament among NU students and 8th gup (yellow belt) owner in Taekwondo ITF from ITF Federation of Astana city</div>
+          </div>
+        </div>
+        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="400">
+          <div class="timeline-head px-4 pt-3">
+            <div class="h5">Active member<span class="text-muted h6">of NU Volunteers club</span></div>
+          </div>
+          <div class="timeline-body px-4 pb-4">
+            <div class="text-muted text-small mb-3">September, 2019 - February, 2023</div>
+            <div>Certificate of appreciation for outstanding dedication and continued to volunteering time and effort together with the Nazarbayev University Volunteers Club</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="shadow-1-strong bg-white my-5 p-5" id="education">
+    <div class="education-section">
+      <h2 class="h2 fw-light mb-4">Education</h2>
+      <div class="timeline">
+        <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
+          <div class="timeline-head px-4 pt-3">
+            <div class="h5">Bachelor in sciences in Biological sciences <span class="text-muted h6">in Nazarbayev University</span>          </div>
+          </div>
+          <div class="timeline-body px-4 pb-4">
+            <div class="text-muted text-small mb-3">2019 - 2023</div>
+            <div>Basic knowledge of Modern Biology, Human anatomy and physiology, Immunology, Biochemistry, Molecular Biology, Microbiology, General chemistry, Neurosciences, and Behavioral biology</div>
+          </div>
+        </div>
+        </div>
+        <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="400">
+          <div class="timeline-head px-4 pt-3">
+            <div class="h5">Biology and Chemistry <span class="text-muted h6">from Nazarbayev Intellectual school of Physics and Mathematics </span>          </div>
+          </div>
+          <div class="timeline-body px-4 pb-4">
+            <div class="text-muted text-small mb-3">2009 - 2019</div>
+            <div>cGPA: 5.0-5.0; Top 20 students</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="shadow-1-strong bg-white my-5 p-5 d-print-none" id="languages">
+    <div class="languages-section">
+      <h2 class="h2 fw-light mb-4">Languages</h2>
+      <div class="row g-0">
+        <div class="col-md-6"><a href="https://dribbble.com/" target="_blank"><img class="img-fluid" src="images/project-1.jpg" width="800" height="500"/></a></div>
+        <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
+          <div class="m-4 mt-md-2">
+          
+            <h3>English Language</h3>
+            <p class="text-muted">IELTS: Listening - 7.5, Reading - 8.5, Writing - 6.5, Speaking - 6.5, Overall band score - 7.5, CEFR level - C1</p>
+          </div>
+        </div>
+      </div>
+      <div class="row g-0 language-reverse">
+        <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
+          <div class="m-4 mt-md-2 text-end">
+          
+            <h3>Kazakh Language</h3>
+            <p class="text-muted">Native language</p>
+          </div>
+        </div>
+        <div class="col-md-6"><a href="https://www.behance.net/" target="_blank"><img class="img-fluid" src="images/project-2.jpg" width="800" height="500"/></a></div>
+      </div>
+      <div class="row g-0">
+        <div class="col-md-6"><a href="https://dribbble.com/" target="_blank"><img class="img-fluid" src="images/project-3.jpg" width="800" height="500"/></a></div>
+        <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
+          <div class="m-4 mt-md-2">
+          
+            <h3>Russian language</h3>
+            <p class="text-muted">Bilingual</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="shadow-1-strong bg-white my-5 p-5" id="scholarships">
+    <div class="scholarship-section">
+      <h2 class="h2 fw-light mb-4">Scholarships</h2>
+      <div class="row"> 
+        <div class="col-md-6">
+          <div class="d-flex mb-2">
+            <div class="avatar"><img src="images/scholarships-image-1.jpg" width="60" height="60"/></div>
+            <div class="header-bio m-3 mb-0">
+              <h3 class="h6 mb-1" data-aos="fade-left" data-aos-delay="0">Nazarbayev University</h3>
+           
+            </div>
+          </div>
+          <div class="d-flex"><i class="text-secondary fas fa-quote-left"></i>
+            <p class="lead mx-2" data-aos="fade-left" data-aos-delay="100">2019 - 2023: Nazarbayev University Educational Grant</p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="d-flex mb-2">
+            <div class="avatar"><img src="images/scholarships-image-2.jpg" width="60" height="60"/></div>
+            <div class="header-bio m-3 mb-0">
+              <h3 class="h6 mb-1" data-aos="fade-left" data-aos-delay="0">Nazarbayev Intellectual school</h3>
+          
+            </div>
+          </div>
+          <div class="d-flex"><i class="text-secondary fas fa-quote-left"></i>
+            <p class="lead mx-2" data-aos="fade-left" data-aos-delay="100">2013 - 2019: Orken educational grant in NIS of Physics and Mathematics</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="shadow-1-strong bg-white my-5 p-5" id="contact">
+    <div class="contant-section">
+      <h2 class="h2 fw-light text mb-4">Contact</h2>
+      <div class="row mb-4">
+        <div class="col-md-5" data-aos="fade-left" data-aos-delay="200">
+          <div class="mt-1">
+            <div class="h6"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> +7708-000-0000</div>
+            <div class="h6"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> aruzhan.muratbek@nu.edu.kz</div>
+          </div>
+  
+    
+    </footer>
+    <script src="scripts/mdb.min.js?ver=1.2.1"></script>
+    <script src="scripts/aos.js?ver=1.2.1"></script>
+    <script src="scripts/main.js?ver=1.2.1"></script>
+  </body>
+</html>
