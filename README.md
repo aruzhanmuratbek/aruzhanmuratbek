@@ -11,10 +11,10 @@
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
     </noscript>
-    <link href="css/font-awesome/css/all.min.css?ver=1.2.1" rel="stylesheet">
-    <link href="css/mdb.min.css?ver=1.2.1" rel="stylesheet">
-    <link href="css/aos.css?ver=1.2.1" rel="stylesheet">
-    <link href="css/style.css?ver=1.2.1" rel="stylesheet">
+    <link href="resources/all.min.css" rel="stylesheet">
+    <link href="resources/mdb.min.css?ver=1.2.1" rel="stylesheet">
+    <link href="resources/aos.css?ver=1.2.1" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <noscript>
       <style type="text/css">
         [data-aos] {
@@ -60,25 +60,23 @@
       <div class="cover bg-image"><img src="images/header-background.jpg"/>
         <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);backdrop-filter: blur(2px);">
           <div class="text-center p-5">
-            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="images/avatar.jpg" width="160" height="160"/></div>
+            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="images/avatar.JPG" width="160" height="160"/></div>
             <div class="header-bio mt-3">
               <div data-aos="zoom-in" data-aos-delay="0">
-                <h2 class="h1">Aruzhan Muartbek</h2>
+                <h2 class="h1">Aruzhan Muratbek</h2>
                 <p>4th year Biological sciences student at Nazarbayev University</p>
               </div>
               <div class="header-social mb-3 d-print-none" data-aos="zoom-in" data-aos-delay="200">
                 <nav role="navigation">
                   <ul class="nav justify-content-center">
-                  
                     <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/aruzhan.muratbek.75/" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
                     </li>
                     <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/aruka_haru_/?next=%2F" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
                     </li>
-                   
                   </ul>
                 </nav>
               </div>
-              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="material-resume.pdf" data-aos="fade-right" data-aos-delay="700">Download CV</a><a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
+              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="pages/material-resume.pdf" data-aos="fade-right" data-aos-delay="700">Download CV</a><a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
             </div>
           </div>
         </div>
@@ -118,7 +116,7 @@
               <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Phone</div>
             </div>
             <div class="col-sm-7">
-              <div class="pb-2">+77080000000</div>
+              <div class="pb-2">+7708-000-0000</div>
             </div>
             <div class="col-sm-5">
               <div class="pb-2 fw-bolder"><i class="fas fa-map-marker-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Address</div>
@@ -137,30 +135,22 @@
       <div class="row">
         <div class="col-md-6">
           <div class="mb-3"><span class="fw-bolder">HTML</span>
-           
           </div>
           <div class="mb-3"><span class="fw-bolder">CSS</span>
-         
           </div>
           <div class="mb-3"><span class="fw-bolder">JavaScript</span>
-            
           </div>
           <div class="mb-3"><span class="fw-bolder">Biology Wet lab</span>
-           
           </div>
         </div>
         <div class="col-md-6">
           <div class="mb-3"><span class="fw-bolder">Biology dry lab</span>
-            
           </div>
           <div class="mb-3"><span class="fw-bolder">Meta analysis</span>
-            
           </div>
           <div class="mb-3"><span class="fw-bolder">Quantitative analysis</span>
-           
           </div>
-          <div class="mb-3"><span class="fw-bolder">Qualitative analysis</span>
-            
+          <div class="mb-3"><span class="fw-bolder">Qualitative analysis</span> 
           </div>
         </div>
       </div>
@@ -185,7 +175,7 @@
           </div>
           <div class="timeline-body px-4 pb-4">
             <div class="text-muted text-small mb-3">November, 2021 - May, 2022</div>
-            <div>Abroze medalist at the NU tournament among NU students and 8th gup (yellow belt) owner in Taekwondo ITF from ITF Federation of Astana city</div>
+            <div>A bronze medalist at the NU tournament among NU students and 8th gup (yellow belt) owner in Taekwondo ITF from ITF Federation of Astana city</div>
           </div>
         </div>
         <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="400">
@@ -233,7 +223,6 @@
         <div class="col-md-6"><a href="https://dribbble.com/" target="_blank"><img class="img-fluid" src="images/project-1.jpg" width="800" height="500"/></a></div>
         <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
           <div class="m-4 mt-md-2">
-          
             <h3>English Language</h3>
             <p class="text-muted">IELTS: Listening - 7.5, Reading - 8.5, Writing - 6.5, Speaking - 6.5, Overall band score - 7.5, CEFR level - C1</p>
           </div>
@@ -242,7 +231,6 @@
       <div class="row g-0 language-reverse">
         <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
           <div class="m-4 mt-md-2 text-end">
-          
             <h3>Kazakh Language</h3>
             <p class="text-muted">Native language</p>
           </div>
@@ -253,7 +241,6 @@
         <div class="col-md-6"><a href="https://dribbble.com/" target="_blank"><img class="img-fluid" src="images/project-3.jpg" width="800" height="500"/></a></div>
         <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
           <div class="m-4 mt-md-2">
-          
             <h3>Russian language</h3>
             <p class="text-muted">Bilingual</p>
           </div>
@@ -270,7 +257,6 @@
             <div class="avatar"><img src="images/scholarships-image-1.jpg" width="60" height="60"/></div>
             <div class="header-bio m-3 mb-0">
               <h3 class="h6 mb-1" data-aos="fade-left" data-aos-delay="0">Nazarbayev University</h3>
-           
             </div>
           </div>
           <div class="d-flex"><i class="text-secondary fas fa-quote-left"></i>
@@ -282,7 +268,6 @@
             <div class="avatar"><img src="images/scholarships-image-2.jpg" width="60" height="60"/></div>
             <div class="header-bio m-3 mb-0">
               <h3 class="h6 mb-1" data-aos="fade-left" data-aos-delay="0">Nazarbayev Intellectual school</h3>
-          
             </div>
           </div>
           <div class="d-flex"><i class="text-secondary fas fa-quote-left"></i>
@@ -301,11 +286,9 @@
             <div class="h6"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> +7708-000-0000</div>
             <div class="h6"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> aruzhan.muratbek@nu.edu.kz</div>
           </div>
-  
-    
     </footer>
-    <script src="scripts/mdb.min.js?ver=1.2.1"></script>
-    <script src="scripts/aos.js?ver=1.2.1"></script>
-    <script src="scripts/main.js?ver=1.2.1"></script>
+    <script src="resources/mdb.min.js"></script>
+    <script src="resources/aos.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>
